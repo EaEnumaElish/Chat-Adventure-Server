@@ -1,0 +1,8 @@
+D:\Code_projects\csharp\ChatAdventureServer\ChatAdventureServer\bin\Debug\ChatAdventureServer.exe.config
+D:\Code_projects\csharp\ChatAdventureServer\ChatAdventureServer\bin\Debug\ChatAdventureServer.exe
+D:\Code_projects\csharp\ChatAdventureServer\ChatAdventureServer\bin\Debug\ChatAdventureServer.pdb
+D:\Code_projects\csharp\ChatAdventureServer\ChatAdventureServer\obj\Debug\ChatAdventureServer.csproj.AssemblyReference.cache
+D:\Code_projects\csharp\ChatAdventureServer\ChatAdventureServer\obj\Debug\ChatAdventureServer.csproj.SuggestedBindingRedirects.cache
+D:\Code_projects\csharp\ChatAdventureServer\ChatAdventureServer\obj\Debug\ChatAdventureServer.csproj.CoreCompileInputs.cache
+D:\Code_projects\csharp\ChatAdventureServer\ChatAdventureServer\obj\Debug\ChatAdventureServer.exe
+D:\Code_projects\csharp\ChatAdventureServer\ChatAdventureServer\obj\Debug\ChatAdventureServer.pdb
